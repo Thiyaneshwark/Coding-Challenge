@@ -1,0 +1,72 @@
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\appsettings.json
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\OrderManagementSystem.exe
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\OrderManagementSystem.deps.json
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\OrderManagementSystem.runtimeconfig.json
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\OrderManagementSystem.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\OrderManagementSystem.pdb
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.csproj.AssemblyReference.cache
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfoInputs.cache
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfo.cs
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.csproj.CoreCompileInputs.cache
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderMan.87E30453.Up2Date
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\refint\OrderManagementSystem.dll
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.pdb
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\OrderManagementSystem.genruntimeconfig.cache
+D:\Coding Challenge\OrderManagementSystem-csharp--master\obj\Debug\net6.0\ref\OrderManagementSystem.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\appsettings.json
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.exe
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.deps.json
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.runtimeconfig.json
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.pdb
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Challenge\Coding Challenge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.csproj.AssemblyReference.cache
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfoInputs.cache
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfo.cs
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.csproj.CoreCompileInputs.cache
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderMan.87E30453.Up2Date
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.dll
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\refint\OrderManagementSystem.dll
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.pdb
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.genruntimeconfig.cache
+D:\Coding Challenge\Coding Challenge\obj\Debug\net6.0\ref\OrderManagementSystem.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\appsettings.json
+D:\R-2\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.exe
+D:\R-2\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.deps.json
+D:\R-2\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.runtimeconfig.json
+D:\R-2\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\OrderManagementSystem.pdb
+D:\R-2\Coding Challenge\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R-2\Coding Challenge\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.csproj.AssemblyReference.cache
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfoInputs.cache
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.AssemblyInfo.cs
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.csproj.CoreCompileInputs.cache
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderMan.87E30453.Up2Date
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.dll
+D:\R-2\Coding Challenge\obj\Debug\net6.0\refint\OrderManagementSystem.dll
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.pdb
+D:\R-2\Coding Challenge\obj\Debug\net6.0\OrderManagementSystem.genruntimeconfig.cache
+D:\R-2\Coding Challenge\obj\Debug\net6.0\ref\OrderManagementSystem.dll
